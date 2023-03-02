@@ -29,6 +29,8 @@
       <router-link to="/event/click">Event Click</router-link>
       |
       <router-link to="/event/change">Event Change</router-link>
+      |
+      <router-link to="/event/key">Event Key</router-link>
     </nav>
     <router-view />
   </div>
